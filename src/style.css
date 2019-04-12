@@ -1,0 +1,5 @@
+.paint{
+  height: 100vw;
+  background-color: #64dddc;
+  background-image: paint(awesomePattern);
+}
